@@ -6,7 +6,7 @@ When I'm not coding, you can find me jamming on my ukuleles or trekking the beau
 
 Let's connect!
 
-[Email](mailto:fgcarino@gmail.com) | [LinkedIn](https://www.linkedin.com/in/franciscarino/) | [Portfolio](https://franciscarino.com) 
+[Email](mailto:fgcarino@gmail.com) • [LinkedIn](https://www.linkedin.com/in/franciscarino/) • [Portfolio](https://franciscarino.com) 
 
 <!--
 **franciscarino/franciscarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

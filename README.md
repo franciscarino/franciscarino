@@ -5,6 +5,7 @@ I'm a Full Stack Software Engineer and graduate of Rithm School. Before pursuing
 When I'm not coding, you can find me jamming on my ukuleles or trekking the beautiful trails of Northern California.
 
 Let's connect!
+
 [Email](mailto:fgcarino@gmail.com) | [LinkedIn](https://www.linkedin.com/in/franciscarino/) | [Portfolio](https://franciscarino.com) 
 
 <!--
